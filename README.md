@@ -1,11 +1,13 @@
-## Deprecated: Use my new theme "Duo" instead:
+# Statistical Genetics journal club
 
-[https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)
+This is the website for the Statistical Genetics journal club based at the
+University of Melbourne.
 
----
+The mailing list for the club can be found at:
+<https://lists.unimelb.edu.au/info/statgen>
 
-# Solo
 
-[Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
+## Acknowledgements
 
-### [Demo & Documentation &rarr;](http://chibicode.github.io/solo)
+This website is built with [Jekyll](https://jekyllrb.com/) and the layout is
+based on the [Solo](https://chibicode.github.io/solo/) theme.

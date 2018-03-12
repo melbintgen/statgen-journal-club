@@ -1,7 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Statistical Genetics journal club
+tag_text: Statistical Genetics journal club
+description: The website for the Statistical Genetics journal club based at the University of Melbourne.
 
 # Build settings
 markdown: kramdown
