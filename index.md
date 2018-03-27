@@ -8,7 +8,7 @@ layout: default
 Li YI, Knowles DA, Humphrey J, Barbeira AN, Dickinson SP, Im HK, Pritchard JK
 (2018).  [Annotation-free quantification of RNA splicing using
 LeafCutter](https://dx.doi.org/10.1038/s41588-017-0004-9), *Nature Genetics*.
-([bioRxiv](https://doi.org/10.1101/044107))
+([biorxiv](https://doi.org/10.1101/044107))
 
 
 ## Proposed papers
@@ -44,7 +44,7 @@ Speed D, Cai N, UCLEB Consortium, Johnson MR, Nejentsev S, Balding DJ (2017).
 traits](https://doi.org/10.1038/ng.3865), *Nature Genetics*.
 ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28530675),
 [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493198/),
-[bioRxiv](https://doi.org/10.1101/074310))
+[biorxiv](https://doi.org/10.1101/074310))
 
 Gazal S, Finucane H, Furlotte NA, Loh PR, Palamara PF, Liu X, Schoech A,
 Bulik-Sullivan B, Neale BM, Gusev A, Price AL (2017).  [Linkage disequilibrium
@@ -55,7 +55,7 @@ Song M, Hao W, Storey JD (2015).  [Testing for genetic associations in
 arbitrarily structured populations](https://doi.org/10.1038/ng.3244), *Nature
 Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4464830/),
-[bioRxiv](https://doi.org/10.1101/012682))
+[biorxiv](https://doi.org/10.1101/012682))
 
 
 ## Mailing list
