@@ -5,10 +5,10 @@ layout: default
 
 ## Next meeting: 28 Mar 2018
 
-Li YI, Knowles DA, ..., Pritchard JK (2018).  [Annotation-free quantification
-of RNA splicing using
+Li YI, Knowles DA, Humphrey J, Barbeira AN, Dickinson SP, Im HK, Pritchard JK
+(2018).  [Annotation-free quantification of RNA splicing using
 LeafCutter](https://dx.doi.org/10.1038/s41588-017-0004-9), *Nature Genetics*.
-(Also: [bioRxiv](https://doi.org/10.1101/044107))
+([bioRxiv](https://doi.org/10.1101/044107))
 
 
 ## Proposed papers
