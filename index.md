@@ -3,12 +3,15 @@ layout: default
 ---
 
 
-## Proposed papers
+## Next meeting: 28 Mar 2018
 
 Li YI, Knowles DA, ..., Pritchard JK (2018).  [Annotation-free quantification
 of RNA splicing using
 LeafCutter](https://dx.doi.org/10.1038/s41588-017-0004-9), *Nature Genetics*.
 (Also: [bioRxiv](https://doi.org/10.1101/044107))
+
+
+## Proposed papers
 
 Tran D, Blei DM (2017).  [Implicit Causal Models for Genome-wide Association
 Studies](https://arxiv.org/abs/1710.10742), *arXiv*.
