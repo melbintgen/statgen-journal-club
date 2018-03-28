@@ -3,12 +3,12 @@ layout: default
 ---
 
 
-## Next meeting: 28 Mar 2018
+## Next meeting: 18 Apr 2018
 
-Li YI, Knowles DA, Humphrey J, Barbeira AN, Dickinson SP, Im HK, Pritchard JK
-(2018).  [Annotation-free quantification of RNA splicing using
-LeafCutter](https://dx.doi.org/10.1038/s41588-017-0004-9), *Nature Genetics*.
-([biorxiv](https://doi.org/10.1101/044107))
+Chan J, Perrone V, Spence JP, Jenkins PA, Mathieson S, Song YS (2018).  [A
+Likelihood-Free Inference Framework for Population Genetic Data using
+Exchangeable Neural Networks](https://doi.org/10.1101/267211 ), *bioRxiv*.
+([arxiv](https://arxiv.org/abs/1802.06153))
 
 
 ## Proposed papers
@@ -17,11 +17,6 @@ Meng XH, Shen H, Chen XD, Xiao HM, Deng HW (2018).  [Inferring causal
 relationships between phenotypes using summary statistics from genome-wide
 association studies](https://doi.org/10.1007/s00439-018-1876-1), *Human
 Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29460149))
-
-Chan J, Perrone V, Spence JP, Jenkins PA, Mathieson S, Song YS (2018).  [A
-Likelihood-Free Inference Framework for Population Genetic Data using
-Exchangeable Neural Networks](https://doi.org/10.1101/267211 ), *bioRxiv*.
-([arxiv](https://arxiv.org/abs/1802.06153))
 
 Kelleher J, Thornton K, Ashander J, Ralph P (2018).  [Efficient pedigree
 recording for fast population genetics
@@ -56,6 +51,14 @@ arbitrarily structured populations](https://doi.org/10.1038/ng.3244), *Nature
 Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4464830/),
 [biorxiv](https://doi.org/10.1101/012682))
+
+
+## Previous papers
+
+**28 Mar 2018.**  Li YI, Knowles DA, Humphrey J, Barbeira AN, Dickinson SP, Im
+HK, Pritchard JK (2018).  [Annotation-free quantification of RNA splicing using
+LeafCutter](https://dx.doi.org/10.1038/s41588-017-0004-9), *Nature Genetics*.
+([biorxiv](https://doi.org/10.1101/044107))
 
 
 ## Mailing list
