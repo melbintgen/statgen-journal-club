@@ -3,7 +3,10 @@ layout: default
 ---
 
 
-## Next meeting: 18 Apr 2018
+## Next meeting
+
+**1pm, 18 Apr 2018**  
+Room 113, Level 1, Building 184, Parkville Campus, University of Melbourne
 
 Chan J, Perrone V, Spence JP, Jenkins PA, Mathieson S, Song YS (2018).  [A
 Likelihood-Free Inference Framework for Population Genetic Data using
