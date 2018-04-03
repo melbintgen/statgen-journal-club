@@ -16,7 +16,8 @@ Exchangeable Neural Networks](https://doi.org/10.1101/267211 ), *bioRxiv*.
 
 ## Proposed papers
 
-*Please send suggestions to [Damjan Vukcevic](damjan.vukcevic@unimelb.edu.au).
+*Please send suggestions to
+[Damjan Vukcevic](mailto:damjan.vukcevic@unimelb.edu.au).
 Papers must be related to genetics or genomics and must have substantial
 statistical content.*
 
