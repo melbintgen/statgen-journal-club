@@ -16,6 +16,10 @@ Exchangeable Neural Networks](https://doi.org/10.1101/267211 ), *bioRxiv*.
 
 ## Proposed papers
 
+*Please send suggestions to [Damjan Vukcevic](damjan.vukcevic@unimelb.edu.au).
+Papers must be related to genetics or genomics and must have substantial
+statistical content.*
+
 Meng XH, Shen H, Chen XD, Xiao HM, Deng HW (2018).  [Inferring causal
 relationships between phenotypes using summary statistics from genome-wide
 association studies](https://doi.org/10.1007/s00439-018-1876-1), *Human
@@ -68,7 +72,7 @@ LeafCutter](https://dx.doi.org/10.1038/s41588-017-0004-9), *Nature Genetics*.
 
 To be notified about future meetings of the club, please
 [subscribe](https://lists.unimelb.edu.au/subscribe/statgen) to the mailing
-list.
+list.  Membership is open to anyone who is interested.
 
 To manage your subscription or find out more about the list, please visit the
 list's [website](https://lists.unimelb.edu.au/info/statgen).
