@@ -5,13 +5,12 @@ layout: default
 
 ## Next meeting
 
-**1pm, 18 Apr 2018**  
+**1pm, 9 May 2018**  
 Room 113, Level 1, Building 184, Parkville Campus, University of Melbourne
 
-Chan J, Perrone V, Spence JP, Jenkins PA, Mathieson S, Song YS (2018).  [A
-Likelihood-Free Inference Framework for Population Genetic Data using
-Exchangeable Neural Networks](https://doi.org/10.1101/267211 ), *bioRxiv*.
-([arxiv](https://arxiv.org/abs/1802.06153))
+Cabreros I, Storey JD (2017).  [A nonparametric estimator of population
+structure unifying admixture models and principal components
+analysis](https://doi.org/10.1101/240812), *bioRxiv*.
 
 
 ## Proposed papers
@@ -32,10 +31,6 @@ simulation](https://doi.org/10.1101/248500), *bioRxiv*.
 
 Tran D, Blei DM (2017).  [Implicit Causal Models for Genome-wide Association
 Studies](https://arxiv.org/abs/1710.10742), *arXiv*.
-
-Cabreros I, Storey JD (2017).  [A nonparametric estimator of population
-structure unifying admixture models and principal components
-analysis](https://doi.org/10.1101/240812), *bioRxiv*.
 
 Zeng J, de Vlaming R, Wu Y, Robinson M, Lloyd-Jones L, Yengo L, Yap C, Xue A,
 Sidorenko J, McRae A, Powell J (2017).  [Widespread signatures of negative
@@ -62,6 +57,11 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**18 Apr 2018.**  Chan J, Perrone V, Spence JP, Jenkins PA, Mathieson S, Song
+YS (2018).  [A Likelihood-Free Inference Framework for Population Genetic Data
+using Exchangeable Neural Networks](https://doi.org/10.1101/267211 ),
+*bioRxiv*. ([arxiv](https://arxiv.org/abs/1802.06153))
 
 **28 Mar 2018.**  Li YI, Knowles DA, Humphrey J, Barbeira AN, Dickinson SP, Im
 HK, Pritchard JK (2018).  [Annotation-free quantification of RNA splicing using
