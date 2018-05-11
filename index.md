@@ -5,7 +5,7 @@ layout: default
 
 ## Next meeting
 
-**1pm, 30 May 2018**  
+**12pm, 28 May 2018**  
 Room 113, Level 1, Building 184, Parkville Campus, University of Melbourne
 
 Kelleher J, Thornton K, Ashander J, Ralph P (2018).  [Efficient pedigree
