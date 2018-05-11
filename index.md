@@ -6,7 +6,8 @@ layout: default
 ## Next meeting
 
 **12pm, 28 May 2018**  
-Room 113, Level 1, Building 184, Parkville Campus, University of Melbourne
+Room 124 (**not Room 113**), Level 1, Building 184, Parkville Campus,
+University of Melbourne
 
 Kelleher J, Thornton K, Ashander J, Ralph P (2018).  [Efficient pedigree
 recording for fast population genetics
