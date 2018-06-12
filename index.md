@@ -9,8 +9,8 @@ Room 113, Level 1, Building 184, Parkville Campus,
 University of Melbourne
 
 Durvasula A, Sankararaman S (2018). [Recovering signals of ghost archaic
-admixture in the genomes of present-day Africans]
-(https://doi.org/10.1101/285734), *bioRxiv*.
+admixture in the genomes of present-day Africans](https://doi.org/10.1101/285734), 
+*bioRxiv*.
 
 
 ## Proposed papers
