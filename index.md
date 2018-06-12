@@ -2,16 +2,15 @@
 layout: default
 ---
 
-
 ## Next meeting
 
-**12pm, 28 May 2018**  
-Room 124 (**not Room 113**), Level 1, Building 184, Parkville Campus,
+**1pm, 20 June 2018**
+Room 113, Level 1, Building 184, Parkville Campus,
 University of Melbourne
 
-Kelleher J, Thornton K, Ashander J, Ralph P (2018).  [Efficient pedigree
-recording for fast population genetics
-simulation](https://doi.org/10.1101/248500), *bioRxiv*.
+Durvasula A, Sankararaman S (2018). [Recovering signals of ghost archaic
+admixture in the genomes of present-day Africans]
+(https://doi.org/10.1101/285734), *bioRxiv*.
 
 
 ## Proposed papers
@@ -54,6 +53,10 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**26 May 2018.** Kelleher J, Thornton K, Ashander J, Ralph P (2018).  
+[Efficient pedigree recording for fast population genetics
+simulation](https://doi.org/10.1101/248500), *bioRxiv*.
 
 **9 May 2018.**  Cabreros I, Storey JD (2017).  [A nonparametric estimator of
 population structure unifying admixture models and principal components
