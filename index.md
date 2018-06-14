@@ -20,6 +20,10 @@ Africans](https://doi.org/10.1101/285734), *bioRxiv*.
 Papers must be related to genetics or genomics and must have substantial
 statistical content.*
 
+Mak TSH, Porsch RM, Choi SW, Zhou X, Sham PC (2017).  [Polygenic scores via
+penalized regression on summary
+statistics](https://doi.org/10.1002/gepi.22050), *Genetic Epidemiology*.
+
 Meng XH, Shen H, Chen XD, Xiao HM, Deng HW (2018).  [Inferring causal
 relationships between phenotypes using summary statistics from genome-wide
 association studies](https://doi.org/10.1007/s00439-018-1876-1), *Human
