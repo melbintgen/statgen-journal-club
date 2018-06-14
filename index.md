@@ -2,15 +2,15 @@
 layout: default
 ---
 
+
 ## Next meeting
 
-**1pm, 20 June 2018**
-Room 113, Level 1, Building 184, Parkville Campus,
-University of Melbourne
+**1pm, 20 Jun 2018**  
+Room 113, Level 1, Building 184, Parkville Campus, University of Melbourne
 
-Durvasula A, Sankararaman S (2018). [Recovering signals of ghost archaic
-admixture in the genomes of present-day Africans](https://doi.org/10.1101/285734), 
-*bioRxiv*.
+Durvasula A, Sankararaman S (2018).  [Recovering signals of ghost archaic
+admixture in the genomes of present-day
+Africans](https://doi.org/10.1101/285734), *bioRxiv*.
 
 
 ## Proposed papers
@@ -54,7 +54,7 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 ## Previous papers
 
-**28 May 2018.** Kelleher J, Thornton K, Ashander J, Ralph P (2018).
+**28 May 2018.**  Kelleher J, Thornton K, Ashander J, Ralph P (2018).
 [Efficient pedigree recording for fast population genetics
 simulation](https://doi.org/10.1101/248500), *bioRxiv*.
 
