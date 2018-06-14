@@ -54,7 +54,7 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 ## Previous papers
 
-**26 May 2018.** Kelleher J, Thornton K, Ashander J, Ralph P (2018).  
+**28 May 2018.** Kelleher J, Thornton K, Ashander J, Ralph P (2018).
 [Efficient pedigree recording for fast population genetics
 simulation](https://doi.org/10.1101/248500), *bioRxiv*.
 
