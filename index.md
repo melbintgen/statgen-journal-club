@@ -5,7 +5,7 @@ layout: default
 
 ## Next meeting
 
-**1pm, 20 Jun 2018**  
+**1pm, 27 Jun 2018**  
 Room 113, Level 1, Building 184, Parkville Campus, University of Melbourne
 
 Durvasula A, Sankararaman S (2018).  [Recovering signals of ghost archaic
