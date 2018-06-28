@@ -5,12 +5,16 @@ layout: default
 
 ## Next meeting
 
-**1pm, 27 Jun 2018**  
+**1pm, 18 Jul 2018**  
 Room 113, Level 1, Building 184, Parkville Campus, University of Melbourne
 
-Durvasula A, Sankararaman S (2018).  [Recovering signals of ghost archaic
-admixture in the genomes of present-day
-Africans](https://doi.org/10.1101/285734), *bioRxiv*.
+He Q, Pilosof S, Tiedje KE, Ruybal-Pesántez S, Artzy-Randrup Y, Baskerville EB,
+Day KP, Pascual M (2018).  [Networks of genetic similarity reveal non-neutral
+processes shape strain structure in *Plasmodium
+falciparum*](https://doi.org/10.1038/s41467-018-04219-3), *Nature
+Communications*. ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29739937),
+['behind the
+paper'](https://naturemicrobiologycommunity.nature.com/users/108152-qixin-he/posts/32988-why-a-diverse-approach-is-needed-to-tackle-a-hyperdiverse-malaria-antigen-system))
 
 
 ## Proposed papers
@@ -57,6 +61,10 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**27 Jun 2018.**  Durvasula A, Sankararaman S (2018).  [Recovering signals of
+ghost archaic admixture in the genomes of present-day
+Africans](https://doi.org/10.1101/285734), *bioRxiv*.
 
 **28 May 2018.**  Kelleher J, Thornton K, Ashander J, Ralph P (2018).
 [Efficient pedigree recording for fast population genetics
