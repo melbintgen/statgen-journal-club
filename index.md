@@ -5,16 +5,14 @@ layout: default
 
 ## Next meeting
 
-**1pm, 18 Jul 2018**  
-Room 113, Level 1, Building 184, Parkville Campus, University of Melbourne
+**12pm, 13 Aug 2018**  
+Room 124 (**not Room 113**), Level 1, Building 184, Parkville Campus,
+University of Melbourne
 
-He Q, Pilosof S, Tiedje KE, Ruybal-Pesántez S, Artzy-Randrup Y, Baskerville EB,
-Day KP, Pascual M (2018).  [Networks of genetic similarity reveal non-neutral
-processes shape strain structure in *Plasmodium
-falciparum*](https://doi.org/10.1038/s41467-018-04219-3), *Nature
-Communications*. ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29739937),
-['behind the
-paper'](https://naturemicrobiologycommunity.nature.com/users/108152-qixin-he/posts/32988-why-a-diverse-approach-is-needed-to-tackle-a-hyperdiverse-malaria-antigen-system))
+Mak TSH, Porsch RM, Choi SW, Zhou X, Sham PC (2017).  [Polygenic scores via
+penalized regression on summary
+statistics](https://doi.org/10.1002/gepi.22050), *Genetic Epidemiology*.
+
 
 
 ## Proposed papers
@@ -23,10 +21,6 @@ paper'](https://naturemicrobiologycommunity.nature.com/users/108152-qixin-he/pos
 [Damjan Vukcevic](mailto:damjan.vukcevic@unimelb.edu.au).
 Papers must be related to genetics or genomics and must have substantial
 statistical content.*
-
-Mak TSH, Porsch RM, Choi SW, Zhou X, Sham PC (2017).  [Polygenic scores via
-penalized regression on summary
-statistics](https://doi.org/10.1002/gepi.22050), *Genetic Epidemiology*.
 
 Meng XH, Shen H, Chen XD, Xiao HM, Deng HW (2018).  [Inferring causal
 relationships between phenotypes using summary statistics from genome-wide
@@ -61,6 +55,14 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**18 Jul 2018.**  He Q, Pilosof S, Tiedje KE, Ruybal-Pesántez S, Artzy-Randrup
+Y, Baskerville EB, Day KP, Pascual M (2018).  [Networks of genetic similarity
+reveal non-neutral processes shape strain structure in *Plasmodium
+falciparum*](https://doi.org/10.1038/s41467-018-04219-3), *Nature
+Communications*. ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29739937),
+['behind the
+paper'](https://naturemicrobiologycommunity.nature.com/users/108152-qixin-he/posts/32988-why-a-diverse-approach-is-needed-to-tackle-a-hyperdiverse-malaria-antigen-system))
 
 **27 Jun 2018.**  Durvasula A, Sankararaman S (2018).  [Recovering signals of
 ghost archaic admixture in the genomes of present-day
