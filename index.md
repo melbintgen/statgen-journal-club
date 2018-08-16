@@ -5,14 +5,13 @@ layout: default
 
 ## Next meeting
 
-**12pm, 13 Aug 2018**  
+**12pm, 10 Sep 2018**  
 Room 124 (**not Room 113**), Level 1, Building 184, Parkville Campus,
 University of Melbourne
 
-Mak TSH, Porsch RM, Choi SW, Zhou X, Sham PC (2017).  [Polygenic scores via
-penalized regression on summary
-statistics](https://doi.org/10.1002/gepi.22050), *Genetic Epidemiology*.
-
+Tran D, Blei DM (2017).  [Implicit Causal Models for Genome-wide Association
+Studies](https://arxiv.org/abs/1710.10742), *arXiv*.
+([openreview](https://openreview.net/forum?id=SyELrEeAb))
 
 
 ## Proposed papers
@@ -32,9 +31,6 @@ Meng XH, Shen H, Chen XD, Xiao HM, Deng HW (2018).  [Inferring causal
 relationships between phenotypes using summary statistics from genome-wide
 association studies](https://doi.org/10.1007/s00439-018-1876-1), *Human
 Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29460149))
-
-Tran D, Blei DM (2017).  [Implicit Causal Models for Genome-wide Association
-Studies](https://arxiv.org/abs/1710.10742), *arXiv*.
 
 Zeng J, de Vlaming R, Wu Y, Robinson M, Lloyd-Jones L, Yengo L, Yap C, Xue A,
 Sidorenko J, McRae A, Powell J (2017).  [Widespread signatures of negative
@@ -61,6 +57,10 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**13 Aug 2018.**  Mak TSH, Porsch RM, Choi SW, Zhou X, Sham PC (2017).
+[Polygenic scores via penalized regression on summary
+statistics](https://doi.org/10.1002/gepi.22050), *Genetic Epidemiology*.
 
 **18 Jul 2018.**  He Q, Pilosof S, Tiedje KE, Ruybal-Pesántez S, Artzy-Randrup
 Y, Baskerville EB, Day KP, Pascual M (2018).  [Networks of genetic similarity
