@@ -22,6 +22,12 @@ statistics](https://doi.org/10.1002/gepi.22050), *Genetic Epidemiology*.
 Papers must be related to genetics or genomics and must have substantial
 statistical content.*
 
+Bradburd GS, Coop GM, Ralph PL (2018).  [Inferring Continuous and Discrete
+Population Genetic Structure Across
+Space](https://doi.org/10.1534/genetics.118.301333), *Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30026187),
+[biorxiv](https://doi.org/10.1101/189688))
+
 Meng XH, Shen H, Chen XD, Xiao HM, Deng HW (2018).  [Inferring causal
 relationships between phenotypes using summary statistics from genome-wide
 association studies](https://doi.org/10.1007/s00439-018-1876-1), *Human
