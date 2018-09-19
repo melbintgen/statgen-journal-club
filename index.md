@@ -5,13 +5,16 @@ layout: default
 
 ## Next meeting
 
-**12pm, 10 Sep 2018**  
-Room 124 (**not Room 113**), Level 1, Building 184, Parkville Campus,
+**12pm, 8 Oct 2018**  
+Room 124, Level 1, Building 184, Parkville Campus,
 University of Melbourne
 
-Tran D, Blei DM (2017).  [Implicit Causal Models for Genome-wide Association
-Studies](https://arxiv.org/abs/1710.10742), *arXiv*.
-([openreview](https://openreview.net/forum?id=SyELrEeAb))
+Shi H, Kichaev G, Pasaniuc B (2016).  [Contrasting the Genetic Architecture of
+30 Complex Traits from Summary Association
+Data](https://doi.org/10.1016/j.ajhg.2016.05.013), AJHG.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27346688),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005444/),
+[biorxiv](https://doi.org/10.1101/035907))
 
 
 ## Proposed papers
@@ -57,6 +60,10 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**10 Sep 2018.**  Tran D, Blei DM (2017).  [Implicit Causal Models for
+Genome-wide Association Studies](https://arxiv.org/abs/1710.10742), *arXiv*.
+([openreview](https://openreview.net/forum?id=SyELrEeAb))
 
 **13 Aug 2018.**  Mak TSH, Porsch RM, Choi SW, Zhou X, Sham PC (2017).
 [Polygenic scores via penalized regression on summary
