@@ -11,7 +11,7 @@ Building 184, Parkville Campus, University of Melbourne
 
 Shi H, Kichaev G, Pasaniuc B (2016).  [Contrasting the Genetic Architecture of
 30 Complex Traits from Summary Association
-Data](https://doi.org/10.1016/j.ajhg.2016.05.013), AJHG.
+Data](https://doi.org/10.1016/j.ajhg.2016.05.013), *AJHG*.
 ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27346688),
 [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005444/),
 [biorxiv](https://doi.org/10.1101/035907))
