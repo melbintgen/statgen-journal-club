@@ -6,8 +6,8 @@ layout: default
 ## Next meeting
 
 **12pm, 8 Oct 2018**  
-Room 124, Level 1, Building 184, Parkville Campus,
-University of Melbourne
+[Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
+Building 184, Parkville Campus, University of Melbourne
 
 Shi H, Kichaev G, Pasaniuc B (2016).  [Contrasting the Genetic Architecture of
 30 Complex Traits from Summary Association
