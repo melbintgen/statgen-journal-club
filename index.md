@@ -5,16 +5,16 @@ layout: default
 
 ## Next meeting
 
-**12pm, 8 Oct 2018**  
+**12pm, 5 Nov 2018**  
 [Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Shi H, Kichaev G, Pasaniuc B (2016).  [Contrasting the Genetic Architecture of
-30 Complex Traits from Summary Association
-Data](https://doi.org/10.1016/j.ajhg.2016.05.013), *AJHG*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27346688),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005444/),
-[biorxiv](https://doi.org/10.1101/035907))
+Bradburd GS, Coop GM, Ralph PL (2018).  [Inferring Continuous and Discrete
+Population Genetic Structure Across
+Space](https://doi.org/10.1534/genetics.118.301333), *Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30026187),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6116973/),
+[biorxiv](https://doi.org/10.1101/189688))
 
 
 ## Proposed papers
@@ -23,12 +23,6 @@ Data](https://doi.org/10.1016/j.ajhg.2016.05.013), *AJHG*.
 [Damjan Vukcevic](mailto:damjan.vukcevic@unimelb.edu.au).
 Papers must be related to genetics or genomics and must have substantial
 statistical content.*
-
-Bradburd GS, Coop GM, Ralph PL (2018).  [Inferring Continuous and Discrete
-Population Genetic Structure Across
-Space](https://doi.org/10.1534/genetics.118.301333), *Genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30026187),
-[biorxiv](https://doi.org/10.1101/189688))
 
 Meng XH, Shen H, Chen XD, Xiao HM, Deng HW (2018).  [Inferring causal
 relationships between phenotypes using summary statistics from genome-wide
@@ -60,6 +54,13 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**8 Oct 2018.**  Shi H, Kichaev G, Pasaniuc B (2016).  [Contrasting the Genetic
+Architecture of 30 Complex Traits from Summary Association
+Data](https://doi.org/10.1016/j.ajhg.2016.05.013), *AJHG*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27346688),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005444/),
+[biorxiv](https://doi.org/10.1101/035907))
 
 **10 Sep 2018.**  Tran D, Blei DM (2017).  [Implicit Causal Models for
 Genome-wide Association Studies](https://arxiv.org/abs/1710.10742), *arXiv*.
