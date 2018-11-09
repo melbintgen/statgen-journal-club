@@ -13,6 +13,16 @@ Kelleher J, Wong Y, Albers P, Wohns AW, McVean B (2018).  [Inferring the
 ancestry of everyone](https://doi.org/10.1101/458067), *bioRxiv*.
 
 
+## Future meetings
+
+**10 Dec 2018.**  Khera AV, Chaffin M, Aragam KG, Haas ME, Roselli C, Choi SH,
+Natarajan P, Lander ES, Lubitz SA, Ellinor PT, Kathiresan S (2018).
+[Genome-wide polygenic scores for common diseases identify individuals with
+risk equivalent to monogenic
+mutations](https://doi.org/10.1038/s41588-018-0183-z), *Nature Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30104762))
+
+
 ## Proposed papers
 
 *Please send suggestions to
