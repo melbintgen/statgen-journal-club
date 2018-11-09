@@ -5,16 +5,12 @@ layout: default
 
 ## Next meeting
 
-**12pm, 5 Nov 2018**  
+**12pm, 19 Nov 2018**  
 [Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Bradburd GS, Coop GM, Ralph PL (2018).  [Inferring Continuous and Discrete
-Population Genetic Structure Across
-Space](https://doi.org/10.1534/genetics.118.301333), *Genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30026187),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6116973/),
-[biorxiv](https://doi.org/10.1101/189688))
+Kelleher J, Wong Y, Albers P, Wohns AW, McVean B (2018).  [Inferring the
+ancestry of everyone](https://doi.org/10.1101/458067), *bioRxiv*.
 
 
 ## Proposed papers
@@ -54,6 +50,13 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**5 Nov 2018.**  Bradburd GS, Coop GM, Ralph PL (2018).  [Inferring Continuous
+and Discrete Population Genetic Structure Across
+Space](https://doi.org/10.1534/genetics.118.301333), *Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30026187),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6116973/),
+[biorxiv](https://doi.org/10.1101/189688))
 
 **8 Oct 2018.**  Shi H, Kichaev G, Pasaniuc B (2016).  [Contrasting the Genetic
 Architecture of 30 Complex Traits from Summary Association
