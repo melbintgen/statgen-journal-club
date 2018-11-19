@@ -5,17 +5,11 @@ layout: default
 
 ## Next meeting
 
-**12pm, 19 Nov 2018**  
+**12pm, 10 Dec 2018**  
 [Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Kelleher J, Wong Y, Albers P, Wohns AW, McVean B (2018).  [Inferring the
-ancestry of everyone](https://doi.org/10.1101/458067), *bioRxiv*.
-
-
-## Future meetings
-
-**10 Dec 2018.**  Khera AV, Chaffin M, Aragam KG, Haas ME, Roselli C, Choi SH,
+Khera AV, Chaffin M, Aragam KG, Haas ME, Roselli C, Choi SH,
 Natarajan P, Lander ES, Lubitz SA, Ellinor PT, Kathiresan S (2018).
 [Genome-wide polygenic scores for common diseases identify individuals with
 risk equivalent to monogenic
@@ -78,6 +72,10 @@ Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
 
 
 ## Previous papers
+
+**19 Nov 2018.**  Kelleher J, Wong Y, Albers P, Wohns AW, McVean B (2018).
+[Inferring the ancestry of everyone](https://doi.org/10.1101/458067),
+*bioRxiv*.
 
 **5 Nov 2018.**  Bradburd GS, Coop GM, Ralph PL (2018).  [Inferring Continuous
 and Discrete Population Genetic Structure Across
