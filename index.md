@@ -35,33 +35,29 @@ list's [website](https://lists.unimelb.edu.au/info/statgen).
 Papers must be related to genetics or genomics and must have substantial
 statistical content.*
 
-Meng XH, Shen H, Chen XD, Xiao HM, Deng HW (2018).  [Inferring causal
-relationships between phenotypes using summary statistics from genome-wide
-association studies](https://doi.org/10.1007/s00439-018-1876-1), *Human
-Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29460149))
 
-Zeng J, de Vlaming R, Wu Y, Robinson M, Lloyd-Jones L, Yengo L, Yap C, Xue A,
-Sidorenko J, McRae A, Powell J (2017).  [Widespread signatures of negative
-selection in the genetic architecture of human complex
-traits](https://doi.org/10.1101/145755), *bioRxiv*.
+Zhang C, Matsen IV, FA (2018).  [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks), NIPS 2018. ([pdf](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks.pdf), [blog](https://matsen.fredhutch.org/general/2018/12/05/sbn.html))
 
-Speed D, Cai N, UCLEB Consortium, Johnson MR, Nejentsev S, Balding DJ (2017).
-[Reevaluation of SNP heritability in complex human
-traits](https://doi.org/10.1038/ng.3865), *Nature Genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/28530675),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493198/),
-[biorxiv](https://doi.org/10.1101/074310))
+Hou K, Burch KS, Majumdar A, Shi H, N Mancuso N, Wu Y, Sankararaman S, Pasaniuc
+B (2019).  [Accurate estimation of SNP-heritability from biobank-scale data
+irrespective of genetic architecture](https://doi.org/10.1101/526855),
+*bioRxiv*.
 
-Gazal S, Finucane H, Furlotte NA, Loh PR, Palamara PF, Liu X, Schoech A,
-Bulik-Sullivan B, Neale BM, Gusev A, Price AL (2017).  [Linkage disequilibrium
-dependent architecture of human complex traits reveals action of negative
-selection](https://doi.org/10.1101/082024), *bioRxiv*.
+Albers PK, McVean G (2018).  [Dating genomic variants and shared ancestry in
+population-scale sequencing data](https://doi.org/10.1101/416610), *bioRxiv*.
 
-Song M, Hao W, Storey JD (2015).  [Testing for genetic associations in
-arbitrarily structured populations](https://doi.org/10.1038/ng.3244), *Nature
-Genetics*.  ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/25822090),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4464830/),
-[biorxiv](https://doi.org/10.1101/012682))
+Urbut SM, Wang G, Carbonetto P, Stephens M (2019).  [Flexible statistical
+methods for estimating and testing effects in genomic studies with multiple
+conditions](https://doi.org/10.1038/s41588-018-0268-8), *Nature Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30478440),
+[biorxiv](https://doi.org/10.1101/096552))
+
+Zhang Y, Qi G, Park JH, Chatterjee N (2018).  [Estimation of complex
+effect-size distributions using summary-level statistics from genome-wide
+association studies across 32 complex
+traits](https://doi.org/10.1038/s41588-018-0193-x), *Nature Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30104760),
+[biorxiv](https://doi.org/10.1101/175406))
 
 
 ## Previous papers
