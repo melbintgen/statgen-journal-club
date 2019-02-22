@@ -59,6 +59,18 @@ traits](https://doi.org/10.1038/s41588-018-0193-x), *Nature Genetics*.
 ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30104760),
 [biorxiv](https://doi.org/10.1101/175406))
 
+Karczewski KJ, ..., Neale BM, Daly MJ, MacArthur DG (2019).  [Variation across
+141,456 human exomes and genomes reveals the spectrum of loss-of-function
+intolerance across human protein-coding genes](https://doi.org/10.1101/531210),
+*bioRxiv*.
+
+Zhu Z, ...,  Visscher PM, Wray NR, Yang J (2018).  [Causal associations between
+risk factors and common diseases inferred from GWAS summary
+data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29335400),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768719/),
+[biorxiv](https://doi.org/10.1101/168674))
+
 
 ## Previous papers
 
