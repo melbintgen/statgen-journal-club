@@ -5,9 +5,11 @@ layout: default
 
 ## Next meeting
 
-**TBD, sometime in 2019**  
+**12pm, 11 Mar 2019**  
 [Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
+
+Zhang C, Matsen IV, FA (2018).  [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks), NIPS 2018. ([pdf](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks.pdf), [blog](https://matsen.fredhutch.org/general/2018/12/05/sbn.html))
 
 
 ## About the club
@@ -35,8 +37,6 @@ list's [website](https://lists.unimelb.edu.au/info/statgen).
 Papers must be related to genetics or genomics and must have substantial
 statistical content.*
 
-
-Zhang C, Matsen IV, FA (2018).  [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks), NIPS 2018. ([pdf](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks.pdf), [blog](https://matsen.fredhutch.org/general/2018/12/05/sbn.html))
 
 Hou K, Burch KS, Majumdar A, Shi H, N Mancuso N, Wu Y, Sankararaman S, Pasaniuc
 B (2019).  [Accurate estimation of SNP-heritability from biobank-scale data
