@@ -9,7 +9,7 @@ layout: default
 [Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Zhang C, Matsen IV, FA (2018).  [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks), NIPS 2018. ([pdf](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks.pdf), [blog](https://matsen.fredhutch.org/general/2018/12/05/sbn.html))
+Zhang C, Matsen IV FA (2018).  [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks), NIPS 2018. ([pdf](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks.pdf), [blog](https://matsen.fredhutch.org/general/2018/12/05/sbn.html))
 
 
 ## About the club
