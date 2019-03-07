@@ -38,6 +38,10 @@ Papers must be related to genetics or genomics and must have substantial
 statistical content.*
 
 
+Speidel L, Forest M, Shi S, Myers S (2019). [A method for genome-wide genealogy
+estimation for thousands of samples](https://doi.org/10.1101/550558), bioRxiv.
+([software](https://myersgroup.github.io/relate/))
+
 Hou K, Burch KS, Majumdar A, Shi H, N Mancuso N, Wu Y, Sankararaman S, Pasaniuc
 B (2019).  [Accurate estimation of SNP-heritability from biobank-scale data
 irrespective of genetic architecture](https://doi.org/10.1101/526855),
