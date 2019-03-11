@@ -5,11 +5,12 @@ layout: default
 
 ## Next meeting
 
-**12pm, 11 Mar 2019**  
+**2pm, 11 Apr 2019**  
 [Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Zhang C, Matsen IV FA (2018).  [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks), NIPS 2018. ([pdf](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks.pdf), [blog](https://matsen.fredhutch.org/general/2018/12/05/sbn.html))
+Albers PK, McVean G (2018).  [Dating genomic variants and shared ancestry in
+population-scale sequencing data](https://doi.org/10.1101/416610), *bioRxiv*.
 
 
 ## About the club
@@ -47,9 +48,6 @@ B (2019).  [Accurate estimation of SNP-heritability from biobank-scale data
 irrespective of genetic architecture](https://doi.org/10.1101/526855),
 *bioRxiv*.
 
-Albers PK, McVean G (2018).  [Dating genomic variants and shared ancestry in
-population-scale sequencing data](https://doi.org/10.1101/416610), *bioRxiv*.
-
 Urbut SM, Wang G, Carbonetto P, Stephens M (2019).  [Flexible statistical
 methods for estimating and testing effects in genomic studies with multiple
 conditions](https://doi.org/10.1038/s41588-018-0268-8), *Nature Genetics*.
@@ -77,6 +75,8 @@ data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
 
 
 ## Previous papers
+
+**11 Mar 2019.**  Zhang C, Matsen IV FA (2018).  [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks), NIPS 2018. ([pdf](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks.pdf), [blog](https://matsen.fredhutch.org/general/2018/12/05/sbn.html))
 
 **10 Dec 2018.**  Khera AV, Chaffin M, Aragam KG, Haas ME, Roselli C, Choi SH,
 Natarajan P, Lander ES, Lubitz SA, Ellinor PT, Kathiresan S (2018).
