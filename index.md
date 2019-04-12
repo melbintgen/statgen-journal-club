@@ -5,12 +5,14 @@ layout: default
 
 ## Next meeting
 
-**2pm, 11 Apr 2019**  
+**2pm, 2 May 2019**  
 [Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Albers PK, McVean G (2018).  [Dating genomic variants and shared ancestry in
-population-scale sequencing data](https://doi.org/10.1101/416610), *bioRxiv*.
+Karczewski KJ, ..., Neale BM, Daly MJ, MacArthur DG (2019).  [Variation across
+141,456 human exomes and genomes reveals the spectrum of loss-of-function
+intolerance across human protein-coding genes](https://doi.org/10.1101/531210),
+*bioRxiv*.
 
 
 ## About the club
@@ -61,11 +63,6 @@ traits](https://doi.org/10.1038/s41588-018-0193-x), *Nature Genetics*.
 ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30104760),
 [biorxiv](https://doi.org/10.1101/175406))
 
-Karczewski KJ, ..., Neale BM, Daly MJ, MacArthur DG (2019).  [Variation across
-141,456 human exomes and genomes reveals the spectrum of loss-of-function
-intolerance across human protein-coding genes](https://doi.org/10.1101/531210),
-*bioRxiv*.
-
 Zhu Z, ...,  Visscher PM, Wray NR, Yang J (2018).  [Causal associations between
 risk factors and common diseases inferred from GWAS summary
 data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
@@ -75,6 +72,10 @@ data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
 
 
 ## Previous papers
+
+**11 Apr 2019.**  Albers PK, McVean G (2018).  [Dating genomic variants and
+shared ancestry in population-scale sequencing
+data](https://doi.org/10.1101/416610), *bioRxiv*.
 
 **11 Mar 2019.**  Zhang C, Matsen IV FA (2018).  [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks), NIPS 2018. ([pdf](https://papers.nips.cc/paper/7418-generalizing-tree-probability-estimation-via-bayesian-networks.pdf), [blog](https://matsen.fredhutch.org/general/2018/12/05/sbn.html))
 
