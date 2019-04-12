@@ -13,6 +13,7 @@ Karczewski KJ, ..., Neale BM, Daly MJ, MacArthur DG (2019).  [Variation across
 141,456 human exomes and genomes reveals the spectrum of loss-of-function
 intolerance across human protein-coding genes](https://doi.org/10.1101/531210),
 *bioRxiv*.
+([blog](http://www.cureffi.org/2019/01/28/using-human-lof-variants-to-evaluate-drug-targets/))
 
 
 ## About the club
