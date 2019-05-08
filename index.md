@@ -5,15 +5,14 @@ layout: default
 
 ## Next meeting
 
-**2pm, 2 May 2019**  
-[Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
+**12pm, 27 May 2019**  
+[Room 115](https://maps.unimelb.edu.au/point?poi=661677), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Karczewski KJ, ..., Neale BM, Daly MJ, MacArthur DG (2019).  [Variation across
-141,456 human exomes and genomes reveals the spectrum of loss-of-function
-intolerance across human protein-coding genes](https://doi.org/10.1101/531210),
-*bioRxiv*.
-([blog](http://www.cureffi.org/2019/01/28/using-human-lof-variants-to-evaluate-drug-targets/))
+Ge T, Chen CY, Ni Y, Feng, YA, Smoller JW (2019).  [Polygenic prediction via
+Bayesian regression and continuous shrinkage
+priors](http://dx.doi.org/10.1038/s41467-019-09718-5), *Nature Communications*.
+([biorxiv](https://doi.org/10.1101/416859))
 
 
 ## About the club
@@ -73,6 +72,12 @@ data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
 
 
 ## Previous papers
+
+**2 May 2019.**  Karczewski KJ, ..., Neale BM, Daly MJ, MacArthur DG (2019).
+[Variation across 141,456 human exomes and genomes reveals the spectrum of
+loss-of-function intolerance across human protein-coding
+genes](https://doi.org/10.1101/531210), *bioRxiv*.
+([blog](http://www.cureffi.org/2019/01/28/using-human-lof-variants-to-evaluate-drug-targets/))
 
 **11 Apr 2019.**  Albers PK, McVean G (2018).  [Dating genomic variants and
 shared ancestry in population-scale sequencing
