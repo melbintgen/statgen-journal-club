@@ -5,14 +5,9 @@ layout: default
 
 ## Next meeting
 
-**12pm, 27 May 2019**  
+**TBD**  
 [Room 115](https://maps.unimelb.edu.au/point?poi=661677), Level 1,
 Building 184, Parkville Campus, University of Melbourne
-
-Ge T, Chen CY, Ni Y, Feng, YA, Smoller JW (2019).  [Polygenic prediction via
-Bayesian regression and continuous shrinkage
-priors](http://dx.doi.org/10.1038/s41467-019-09718-5), *Nature Communications*.
-([biorxiv](https://doi.org/10.1101/416859))
 
 
 ## About the club
@@ -72,6 +67,11 @@ data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
 
 
 ## Previous papers
+
+**27 May 2019.**  Ge T, Chen CY, Ni Y, Feng, YA, Smoller JW (2019).  [Polygenic
+prediction via Bayesian regression and continuous shrinkage
+priors](http://dx.doi.org/10.1038/s41467-019-09718-5), *Nature Communications*.
+([biorxiv](https://doi.org/10.1101/416859))
 
 **2 May 2019.**  Karczewski KJ, ..., Neale BM, Daly MJ, MacArthur DG (2019).
 [Variation across 141,456 human exomes and genomes reveals the spectrum of
