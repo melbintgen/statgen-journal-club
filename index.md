@@ -5,9 +5,15 @@ layout: default
 
 ## Next meeting
 
-**TBD**  
-[Room 115](https://maps.unimelb.edu.au/point?poi=661677), Level 1,
+**11:30am, 15 Jul 2019**  
+[Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
+
+Urbut SM, Wang G, Carbonetto P, Stephens M (2019).  [Flexible statistical
+methods for estimating and testing effects in genomic studies with multiple
+conditions](https://doi.org/10.1038/s41588-018-0268-8), *Nature Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30478440),
+[biorxiv](https://doi.org/10.1101/096552))
 
 
 ## About the club
@@ -44,12 +50,6 @@ Hou K, Burch KS, Majumdar A, Shi H, N Mancuso N, Wu Y, Sankararaman S, Pasaniuc
 B (2019).  [Accurate estimation of SNP-heritability from biobank-scale data
 irrespective of genetic architecture](https://doi.org/10.1101/526855),
 *bioRxiv*.
-
-Urbut SM, Wang G, Carbonetto P, Stephens M (2019).  [Flexible statistical
-methods for estimating and testing effects in genomic studies with multiple
-conditions](https://doi.org/10.1038/s41588-018-0268-8), *Nature Genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30478440),
-[biorxiv](https://doi.org/10.1101/096552))
 
 Zhang Y, Qi G, Park JH, Chatterjee N (2018).  [Estimation of complex
 effect-size distributions using summary-level statistics from genome-wide
