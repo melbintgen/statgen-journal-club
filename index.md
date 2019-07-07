@@ -5,8 +5,8 @@ layout: default
 
 ## Next meeting
 
-**11:30am, 15 Jul 2019**  
-[Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
+**12pm, 22 Jul 2019**  
+[Room 115](https://maps.unimelb.edu.au/point?poi=661677), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
 Urbut SM, Wang G, Carbonetto P, Stephens M (2019).  [Flexible statistical
