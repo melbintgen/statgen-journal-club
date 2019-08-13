@@ -36,6 +36,35 @@ Papers must be related to genetics or genomics and must have substantial
 statistical content.*
 
 
+Veturi Y, de Los Campos G, Yi N, Huang W, Vazquez AI, Kühnel B (2019).
+[Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse
+Groups Using Random Effect Interaction
+Models](https://doi.org/10.1534/genetics.119.301909), *Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30796011),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456318/))
+
+Liu X, Li YI, Pritchard JK (2019).  [Trans effects on gene expression can drive
+omnigenic inheritance](https://doi.org/10.1016/j.cell.2019.04.014), *Cell*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31051098),
+[biorxiv](https://doi.org/10.1101/425108))
+
+Wainschtein P, ..., Weir BS, Laurie CC, Yang J, Visscher PM (2019).  [Recovery
+of trait heritability from whole genome sequence
+data](https://doi.org/10.1101/588020), *bioRxiv*.
+
+Gigante S, van Dijk D, Moon K, Strzalkowski A, Wolf G, Krishnaswamy S (2019).
+[Modeling Global Dynamics from Local Snapshots with Deep Generative Neural
+Networks](https://arxiv.org/abs/1802.03497), *arXiv*.
+
+Wald NJ, Old R (2019).  [The illusion of polygenic disease risk
+prediction](https://doi.org/10.1038/s41436-018-0418-5), *Genetics in Medicine*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30635622))
+
+Martin AR, Kanai M, Kamatani Y, Okada Y, Neale BM, Daly MJ (2019).  [Clinical
+use of current polygenic risk scores may exacerbate health
+disparities](https://doi.org/10.1038/s41588-019-0379-x), *Nature genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30926966))
+
 Speidel L, Forest M, Shi S, Myers S (2019). [A method for genome-wide genealogy
 estimation for thousands of samples](https://doi.org/10.1101/550558), bioRxiv.
 ([software](https://myersgroup.github.io/relate/))
@@ -44,6 +73,12 @@ Hou K, Burch KS, Majumdar A, Shi H, N Mancuso N, Wu Y, Sankararaman S, Pasaniuc
 B (2019).  [Accurate estimation of SNP-heritability from biobank-scale data
 irrespective of genetic architecture](https://doi.org/10.1101/526855),
 *bioRxiv*.
+
+Zhu X, Stephens M (2018).  [Large-scale genome-wide enrichment analyses
+identify new trait-associated genes and pathways across 31 human
+phenotypes](https://doi.org/10.1038/s41467-018-06805-x), *Nature
+Communications*. ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30341297),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195536/))
 
 Zhang Y, Qi G, Park JH, Chatterjee N (2018).  [Estimation of complex
 effect-size distributions using summary-level statistics from genome-wide
@@ -58,6 +93,13 @@ data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
 ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29335400),
 [pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768719/),
 [biorxiv](https://doi.org/10.1101/168674))
+
+Brown BC, AGEN-T2G, Ye CJ, Price AL, Zaitlen N (2016).  [Transethnic
+Genetic-Correlation Estimates from Summary
+Statistics](https://doi.org/10.1016/j.ajhg.2016.05.001), *AJHG*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27321947),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005434/),
+[biorxiv](https://doi.org/10.1101/036657))
 
 
 ## Previous papers
