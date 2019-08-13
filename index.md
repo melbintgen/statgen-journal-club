@@ -5,15 +5,9 @@ layout: default
 
 ## Next meeting
 
-**12pm, 22 Jul 2019**  
+**TBD**  
 [Room 115](https://maps.unimelb.edu.au/point?poi=661677), Level 1,
 Building 184, Parkville Campus, University of Melbourne
-
-Urbut SM, Wang G, Carbonetto P, Stephens M (2019).  [Flexible statistical
-methods for estimating and testing effects in genomic studies with multiple
-conditions](https://doi.org/10.1038/s41588-018-0268-8), *Nature Genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30478440),
-[biorxiv](https://doi.org/10.1101/096552))
 
 
 ## About the club
@@ -67,6 +61,12 @@ data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
 
 
 ## Previous papers
+
+**22 Jul 2019.**  Urbut SM, Wang G, Carbonetto P, Stephens M (2019).  [Flexible
+statistical methods for estimating and testing effects in genomic studies with
+multiple conditions](https://doi.org/10.1038/s41588-018-0268-8), *Nature
+Genetics*. ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30478440),
+[biorxiv](https://doi.org/10.1101/096552))
 
 **27 May 2019.**  Ge T, Chen CY, Ni Y, Feng, YA, Smoller JW (2019).  [Polygenic
 prediction via Bayesian regression and continuous shrinkage
