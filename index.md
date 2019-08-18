@@ -87,6 +87,11 @@ traits](https://doi.org/10.1038/s41588-018-0193-x), *Nature Genetics*.
 ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30104760),
 [biorxiv](https://doi.org/10.1101/175406))
 
+Márquez-Luna C, Gazal S, Loh P-R, Kim SS, Furlotte N, Auton A, 23andMe, Price
+AL (2018).  [Modeling functional enrichment improves polygenic prediction
+accuracy in UK Biobank and 23andMe data sets](https://doi.org/10.1101/375337),
+*bioRxiv*.
+
 Zhu Z, ...,  Visscher PM, Wray NR, Yang J (2018).  [Causal associations between
 risk factors and common diseases inferred from GWAS summary
 data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
