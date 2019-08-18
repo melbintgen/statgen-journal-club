@@ -5,9 +5,16 @@ layout: default
 
 ## Next meeting
 
-**TBD**  
-[Room 115](https://maps.unimelb.edu.au/point?poi=661677), Level 1,
+**2pm, 27 Aug 2019**  
+[Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
+
+Veturi Y, de Los Campos G, Yi N, Huang W, Vazquez AI, Kühnel B (2019).
+[Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse
+Groups Using Random Effect Interaction
+Models](https://doi.org/10.1534/genetics.119.301909), *Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30796011),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456318/))
 
 
 ## About the club
@@ -35,13 +42,6 @@ list's [website](https://lists.unimelb.edu.au/info/statgen).
 Papers must be related to genetics or genomics and must have substantial
 statistical content.*
 
-
-Veturi Y, de Los Campos G, Yi N, Huang W, Vazquez AI, Kühnel B (2019).
-[Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse
-Groups Using Random Effect Interaction
-Models](https://doi.org/10.1534/genetics.119.301909), *Genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30796011),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456318/))
 
 Liu X, Li YI, Pritchard JK (2019).  [Trans effects on gene expression can drive
 omnigenic inheritance](https://doi.org/10.1016/j.cell.2019.04.014), *Cell*.
