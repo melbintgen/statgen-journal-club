@@ -5,16 +5,13 @@ layout: default
 
 ## Next meeting
 
-**2pm, 27 Aug 2019**  
-[Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
+**10am, 13 Sep 2019**  
+[Room 115](https://maps.unimelb.edu.au/point?poi=661677), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Veturi Y, de Los Campos G, Yi N, Huang W, Vazquez AI, Kühnel B (2019).
-[Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse
-Groups Using Random Effect Interaction
-Models](https://doi.org/10.1534/genetics.119.301909), *Genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30796011),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456318/))
+Almarri MA, Bergström A, Prado-Martinez J, Dunham AS, Chen Y, Tyler-Smith C,
+Xue Y (2019).  [Population Structure, Stratification and Introgression of Human
+Structural Variation in the HGDP](https://doi.org/10.1101/746172), *bioRxiv*.
 
 
 ## About the club
@@ -108,6 +105,13 @@ Statistics](https://doi.org/10.1016/j.ajhg.2016.05.001), *AJHG*.
 
 
 ## Previous papers
+
+**27 Aug 2019.**  Veturi Y, de Los Campos G, Yi N, Huang W, Vazquez AI, Kühnel
+B (2019). [Modeling Heterogeneity in the Genetic Architecture of Ethnically
+Diverse Groups Using Random Effect Interaction
+Models](https://doi.org/10.1534/genetics.119.301909), *Genetics*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30796011),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6456318/))
 
 **22 Jul 2019.**  Urbut SM, Wang G, Carbonetto P, Stephens M (2019).  [Flexible
 statistical methods for estimating and testing effects in genomic studies with
