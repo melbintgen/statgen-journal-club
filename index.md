@@ -5,13 +5,13 @@ layout: default
 
 ## Next meeting
 
-**10am, 13 Sep 2019**  
+**2pm, 24 Sep 2019**  
 [Room 115](https://maps.unimelb.edu.au/point?poi=661677), Level 1,
 Building 184, Parkville Campus, University of Melbourne
 
-Almarri MA, Bergström A, Prado-Martinez J, Dunham AS, Chen Y, Tyler-Smith C,
-Xue Y (2019).  [Population Structure, Stratification and Introgression of Human
-Structural Variation in the HGDP](https://doi.org/10.1101/746172), *bioRxiv*.
+Fortes-Lima CA, Laurent R, Thouzeau V, Toupance B, Verdu P (2019).  [Complex
+genetic admixture histories reconstructed with Approximate Bayesian
+Computations](https://doi.org/10.1101/761452), *bioRxiv*.
 
 
 ## About the club
@@ -105,6 +105,11 @@ Statistics](https://doi.org/10.1016/j.ajhg.2016.05.001), *AJHG*.
 
 
 ## Previous papers
+
+**13 Sep 2019.**  Almarri MA, Bergström A, Prado-Martinez J, Dunham AS, Chen Y,
+Tyler-Smith C, Xue Y (2019).  [Population Structure, Stratification and
+Introgression of Human Structural Variation in the
+HGDP](https://doi.org/10.1101/746172), *bioRxiv*.
 
 **27 Aug 2019.**  Veturi Y, de Los Campos G, Yi N, Huang W, Vazquez AI, Kühnel
 B (2019). [Modeling Heterogeneity in the Genetic Architecture of Ethnically
