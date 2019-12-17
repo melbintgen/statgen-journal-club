@@ -5,14 +5,9 @@ layout: default
 
 ## Next meeting
 
-**2pm, 10 Dec 2019**  
+**TBD, sometime in 2020**  
 [Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
 Building 184, Parkville Campus, University of Melbourne
-
-Barton N, Hermisson J, Nordborg M (2019).  [Why structure
-matters](https://doi.org/10.7554/eLife.45380), *eLife*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30895925),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6428565/))
 
 
 ## About the club
@@ -106,6 +101,11 @@ Statistics](https://doi.org/10.1016/j.ajhg.2016.05.001), *AJHG*.
 
 
 ## Previous papers
+
+**10 Dec 2019.**  Barton N, Hermisson J, Nordborg M (2019).  [Why structure
+matters](https://doi.org/10.7554/eLife.45380), *eLife*.
+([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30895925),
+[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6428565/))
 
 **24 Sep 2019.**  Fortes-Lima CA, Laurent R, Thouzeau V, Toupance B, Verdu
 P (2019).  [Complex genetic admixture histories reconstructed with Approximate
