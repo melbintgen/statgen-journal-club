@@ -5,9 +5,23 @@ layout: default
 
 ## Next meeting
 
-**TBD, sometime in 2020**  
-[Room 124](https://maps.unimelb.edu.au/parkville/building/184/124), Level 1,
-Building 184, Parkville Campus, University of Melbourne
+**2pm, 15 Mar 2021**  
+Zoom meeting (details will be sent via email)
+
+Wohns AW, Wong Y, Jeffery B, Akbari A, Mallick S, Pinhasi R, Patterson N, Reich
+D, Kelleher J, McVean G (2021).  [A unified genealogy of modern and ancient
+genomes](https://doi.org/10.1101/2021.02.16.431497), *bioRxiv*.
+
+
+## Upcoming meetings
+
+**2pm, 29 Mar 2021.**  Speidel L, Cassidy L, Davies RW, Hellenthal G, Skoglund
+P, Myers S (2021). [Inferring population histories for ancient genomes using
+genome-wide genealogies](https://doi.org/10.1101/2021.02.17.431573), *bioRxiv*.
+
+**2pm, 12 Apr 2021.**  Cherryh C, Minh BQ, Lanfear R (2021).  [A test statistic
+to quantify treelikeness in
+phylogenetics](https://doi.org/10.1101/2021.02.16.431544), *bioRxiv*.
 
 
 ## About the club
