@@ -5,19 +5,12 @@ layout: default
 
 ## Next meeting
 
-**2pm, 29 Mar 2021**  
+**2pm, 12 Apr 2021**  
 Zoom meeting (details will be sent via email)
 
-Speidel L, Cassidy L, Davies RW, Hellenthal G, Skoglund P, Myers S (2021).
-[Inferring population histories for ancient genomes using genome-wide
-genealogies](https://doi.org/10.1101/2021.02.17.431573), *bioRxiv*.
-
-
-## Upcoming meetings
-
-**2pm, 12 Apr 2021.**  Cherryh C, Minh BQ, Lanfear R (2021).  [A test statistic
-to quantify treelikeness in
-phylogenetics](https://doi.org/10.1101/2021.02.16.431544), *bioRxiv*.
+Cherryh C, Minh BQ, Lanfear R (2021).  [A test statistic to quantify
+treelikeness in phylogenetics](https://doi.org/10.1101/2021.02.16.431544),
+*bioRxiv*.
 
 
 ## About the club
@@ -111,6 +104,10 @@ Statistics](https://doi.org/10.1016/j.ajhg.2016.05.001), *AJHG*.
 
 
 ## Previous papers
+
+**29 Mar 2021.**  Speidel L, Cassidy L, Davies RW, Hellenthal G, Skoglund P,
+Myers S (2021). [Inferring population histories for ancient genomes using
+genome-wide genealogies](https://doi.org/10.1101/2021.02.17.431573), *bioRxiv*.
 
 **15 Mar 2021.**  Wohns AW, Wong Y, Jeffery B, Akbari A, Mallick S, Pinhasi R,
 Patterson N, Reich D, Kelleher J, McVean G (2021).  [A unified genealogy of
