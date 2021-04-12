@@ -5,12 +5,8 @@ layout: default
 
 ## Next meeting
 
-**2pm, 12 Apr 2021**  
+**TBD**  
 Zoom meeting (details will be sent via email)
-
-Cherryh C, Minh BQ, Lanfear R (2021).  [A test statistic to quantify
-treelikeness in phylogenetics](https://doi.org/10.1101/2021.02.16.431544),
-*bioRxiv*.
 
 
 ## About the club
@@ -104,6 +100,10 @@ Statistics](https://doi.org/10.1016/j.ajhg.2016.05.001), *AJHG*.
 
 
 ## Previous papers
+
+**12 Apr 2021**  Cherryh C, Minh BQ, Lanfear R (2021).  [A test statistic to
+quantify treelikeness in
+phylogenetics](https://doi.org/10.1101/2021.02.16.431544), *bioRxiv*.
 
 **29 Mar 2021.**  Speidel L, Cassidy L, Davies RW, Hellenthal G, Skoglund P,
 Myers S (2021). [Inferring population histories for ancient genomes using
