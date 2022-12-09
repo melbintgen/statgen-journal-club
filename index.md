@@ -3,18 +3,17 @@ layout: default
 ---
 
 
-## Next meeting
-
-**TBD**  
-Zoom meeting (details will be sent via email)
-
-
 ## About the club
 
 This journal club is hosted by [Melbourne Integrative Genomics
 (MIG)](http://research.unimelb.edu.au/integrative-genomics) at the University
-of Melbourne.  It is currently managed by [Damjan
-Vukcevic](http://research.unimelb.edu.au/integrative-genomics/research/statistical-genetics-vukcevic).
+of Melbourne.
+
+
+## On pause
+
+This journal club is currently on pause.  Subscribe to the mailing list (see
+below) to be notified once it resumes.
 
 
 ## Mailing list
@@ -25,78 +24,6 @@ list.  Membership is open to anyone who is interested.
 
 To manage your subscription or find out more about the list, please visit the
 list's [website](https://lists.unimelb.edu.au/info/statgen).
-
-
-## Proposed papers
-
-*Please send suggestions to
-[Damjan Vukcevic](mailto:damjan.vukcevic@unimelb.edu.au).
-Papers must be related to genetics or genomics and must have substantial
-statistical content.*
-
-
-Liu X, Li YI, Pritchard JK (2019).  [Trans effects on gene expression can drive
-omnigenic inheritance](https://doi.org/10.1016/j.cell.2019.04.014), *Cell*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/31051098),
-[biorxiv](https://doi.org/10.1101/425108))
-
-Wainschtein P, ..., Weir BS, Laurie CC, Yang J, Visscher PM (2019).  [Recovery
-of trait heritability from whole genome sequence
-data](https://doi.org/10.1101/588020), *bioRxiv*.
-
-Gigante S, van Dijk D, Moon K, Strzalkowski A, Wolf G, Krishnaswamy S (2019).
-[Modeling Global Dynamics from Local Snapshots with Deep Generative Neural
-Networks](https://arxiv.org/abs/1802.03497), *arXiv*.
-
-Wald NJ, Old R (2019).  [The illusion of polygenic disease risk
-prediction](https://doi.org/10.1038/s41436-018-0418-5), *Genetics in Medicine*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30635622))
-
-Martin AR, Kanai M, Kamatani Y, Okada Y, Neale BM, Daly MJ (2019).  [Clinical
-use of current polygenic risk scores may exacerbate health
-disparities](https://doi.org/10.1038/s41588-019-0379-x), *Nature genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30926966))
-
-Speidel L, Forest M, Shi S, Myers S (2019). [A method for genome-wide genealogy
-estimation for thousands of samples](https://doi.org/10.1101/550558), bioRxiv.
-([software](https://myersgroup.github.io/relate/))
-
-Hou K, Burch KS, Majumdar A, Shi H, N Mancuso N, Wu Y, Sankararaman S, Pasaniuc
-B (2019).  [Accurate estimation of SNP-heritability from biobank-scale data
-irrespective of genetic architecture](https://doi.org/10.1101/526855),
-*bioRxiv*.
-
-Zhu X, Stephens M (2018).  [Large-scale genome-wide enrichment analyses
-identify new trait-associated genes and pathways across 31 human
-phenotypes](https://doi.org/10.1038/s41467-018-06805-x), *Nature
-Communications*. ([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30341297),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6195536/))
-
-Zhang Y, Qi G, Park JH, Chatterjee N (2018).  [Estimation of complex
-effect-size distributions using summary-level statistics from genome-wide
-association studies across 32 complex
-traits](https://doi.org/10.1038/s41588-018-0193-x), *Nature Genetics*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/30104760),
-[biorxiv](https://doi.org/10.1101/175406))
-
-Márquez-Luna C, Gazal S, Loh P-R, Kim SS, Furlotte N, Auton A, 23andMe, Price
-AL (2018).  [Modeling functional enrichment improves polygenic prediction
-accuracy in UK Biobank and 23andMe data sets](https://doi.org/10.1101/375337),
-*bioRxiv*.
-
-Zhu Z, ...,  Visscher PM, Wray NR, Yang J (2018).  [Causal associations between
-risk factors and common diseases inferred from GWAS summary
-data](https://doi.org/10.1038/s41467-017-02317-2), *Nature Communications*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/29335400),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768719/),
-[biorxiv](https://doi.org/10.1101/168674))
-
-Brown BC, AGEN-T2G, Ye CJ, Price AL, Zaitlen N (2016).  [Transethnic
-Genetic-Correlation Estimates from Summary
-Statistics](https://doi.org/10.1016/j.ajhg.2016.05.001), *AJHG*.
-([pubmed](https://www.ncbi.nlm.nih.gov/pubmed/27321947),
-[pmc](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5005434/),
-[biorxiv](https://doi.org/10.1101/036657))
 
 
 ## Previous papers
